@@ -2,9 +2,7 @@
 
 **A Power BI dashboard that shows who the customers are, how much revenue they bring, how satisfied they are, and why some of them leave.**
 
-![MTN Customer Analysis](dashboard-pages/02_customer_analysis.png)
-
-> **Note:** This is a portfolio project. It uses a practice dataset and is not affiliated with or endorsed by MTN.
+![MTN Customer Analysis](https://github.com/christianah-portfolio/Telecom-Customer-Analytics/blob/main/01_customer_overview.png.png)
 
 ---
 
@@ -72,7 +70,7 @@ The dashboard has two pages. Both share the same KPI cards (revenue, average dat
 - Revenue by month, with a drill-down to revenue by state
 - Revenue by subscription plan, for all 21 plans
 
-![MTN Customer Overview](dashboard-pages/01_customer_overview.png)
+![MTN Customer Overview](https://github.com/christianah-portfolio/Telecom-Customer-Analytics/blob/main/01_customer_overview.png.png)
 
 ### Page 2: Customer Analysis
 *Who are the customers, how satisfied are they, and why do they leave?*
