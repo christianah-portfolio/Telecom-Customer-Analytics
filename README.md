@@ -81,8 +81,7 @@ The dashboard has two pages. Both share the same KPI cards (revenue, average dat
 - Customers by gender
 - Top churn reasons
 
-![MTN Customer Analysis](dashboard-pages/02_customer_analysis.png)
-
+![MTN Customer Analysis](https://github.com/christianah-portfolio/Telecom-Customer-Analytics/blob/main/02_customer_analysis.png.png)
 ---
 
 ## Dataset
