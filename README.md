@@ -126,7 +126,6 @@ Average Data Usage = FORMAT(AVERAGE('MTN Dataset'[Data Usage]), "0.00") & " GB"
 
 ## Limitations
 
-- This is a practice dataset, so the findings should not be treated as conclusions about a real company.
 - The data covers only three months, so the revenue trend cannot show a long-term pattern.
 - Many customers used more than one device across their purchases, so device comparisons overlap.
 - Satisfaction ratings are close to each other across devices, so the differences are small.
